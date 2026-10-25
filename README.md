@@ -144,24 +144,31 @@ A REST API demonstrating CRUD operations and movie data management.
 
 ## 🐍 Contribution Snake
 
+
+## 📊 GitHub Profile
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=navaneethan077"
+    alt="GitHub Contribution Streak"
+  />
+</p>
+
+## 🐍 Contribution Snake
+
 <p align="center">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
       srcset="https://raw.githubusercontent.com/navaneethan077/navaneethan077/output/github-contribution-grid-snake-dark.svg"
     />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/navaneethan077/navaneethan077/output/github-contribution-grid-snake.svg"
-    />
     <img
-      alt="GitHub Contribution Snake Animation"
       src="https://raw.githubusercontent.com/navaneethan077/navaneethan077/output/github-contribution-grid-snake.svg"
+      alt="GitHub Contribution Snake"
     />
   </picture>
 </p>
 
----
 
 ## ✍️ Developer Quote
 
